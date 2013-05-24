@@ -188,4 +188,4 @@ var wheelAndDeal = function (offers.one,offer.two)
 	}
 };
 
-var	 happyOwner = wheelAndDeal(false,true);
+var happyOwner = wheelAndDeal(false,true);
