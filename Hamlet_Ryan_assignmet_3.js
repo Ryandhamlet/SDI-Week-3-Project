@@ -49,7 +49,7 @@ var scheduling = function(saturday,thursday){
 	}
 };
 
-var	bigDay = scheduling(true,false);
+var bigDay = scheduling(true,false);
 
    console.log("That sounds good I will see you Saturday at 1am.");
     console.log( "This is the list of cars I will be driving today.");
